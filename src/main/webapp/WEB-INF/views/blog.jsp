@@ -61,20 +61,37 @@
     </div>
   </nav>
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('resources/images/bg_3.jpg');">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('resources/images/letsfestival2.png');">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-center">
         <div class="col-md-9 pt-5 text-center">
-          <p class="breadcrumbs"><span class="mr-2"><a href="index">Home <i class="fa fa-chevron-right"></i></a></span> <span>Blog <i class="fa fa-chevron-right"></i></span></p>
-          <h1 class="mb-0 bread">Our Blog</h1>
+          <p class="breadcrumbs"><span class="mr-2"><a href="index">Home <i class="fa fa-chevron-right"></i></a></span> <span>렛페 <i class="fa fa-chevron-right"></i></span></p>
+          <h1 class="mb-0 bread">테스트용 렛페</h1>
         </div>
       </div>
     </div>
   </section>
 
   <section class="ftco-section bg-light">
-    <div class="container-xl">
+
+
+	<button id="minsuk_btn" onclick='location.href="example";'
+	style="	color: white !important;
+			padding: -6px 12px;#3D;
+			left: 1450px;nt; background:red !important;
+			cursor: pointer;
+			top: 49px;
+			left: 1398px;
+			padding: 10px 29px;
+			letter-spacing:1px;
+			border-radius: 5.25rem !important;
+			">+ let's festival 등록</button>
+
+
+
+
+		<div class="container-xl">
       <div class="row">
         <div class="col-md-3 d-flex">
           <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -258,6 +275,7 @@
 
           <footer class="ftco-footer">
             <div class="container-xl">
+      
               <div class="row mb-5 pb-5 justify-content-between">
                 <div class="col-md-6 col-lg">
                   <div class="ftco-footer-widget mb-4">

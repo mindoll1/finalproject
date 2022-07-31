@@ -247,6 +247,17 @@ th {
 label {
   display: inline-block; }
 
+/*민석이가 작업한 버튼  <blog>-> 이름 바꿈(렛페로)*/
+/*예전에도 css 사서 여기에다가 적용해봤지만 바로 동작하지 않아서
+그냥 해당 태그에 style 줘서 거기다가 박아놓았음.  */
+button#minsuk_btn{
+	cursor: pointer;
+	position : absolute;
+	top : 75px;
+	left : 1553px;
+}
+
+
 button {
   border-radius: 0; }
 
