@@ -73,23 +73,49 @@
     </div>
   </section>
 
+			
   <section class="ftco-section bg-light">
 
-
-	<button id="minsuk_btn" onclick='location.href="example";'
+<!--자꾸 창 사이즈를 줄이면 튕겨져서 나가서 이것은 못씀  -->
+<!-- 	<button id="minsuk_btn" onclick='location.href="example";'
 	style="	color: white !important;
 			padding: -6px 12px;#3D;
-			left: 1450px;nt; background:red !important;
+			left: 1450px;background:red !important;
 			cursor: pointer;
 			top: 49px;
 			left: 1398px;
 			padding: 10px 29px;
 			letter-spacing:1px;
 			border-radius: 5.25rem !important;
-			">+ let's festival 등록</button>
+			">+ let's festival 등록</button> -->
+			
+<!-- 안 튕겨나갈려면 적절히 div 태그를 섞어서 써야된다. 
+div 태그도 얘네가 어디 부트스트랩꺼를 써서 지금 만든 건지는 모르겠지만 
+거기에 해당하는 거 적절하 class 이름 찾아서 섞어 써야됨-->
 
-
-
+<div class="col text-center" 
+style="margin-top: -7%;">
+<div class="row">
+<div class="row mt-5">
+			<div class="block-27" style="margin-bottom: 1%;">
+				<button id="minsuk_btn" onclick='location.href="example";'
+					style="color: white !important; 
+					padding: -6px 12px; 
+					background: red !important;
+					cursor: pointer; 
+					letter-spacing: 1px;
+					border-radius: 5.25rem !important; 
+					width: 24%;height: -11%; 
+					position: absolute; 
+					padding: 0;
+					position:inherit; 
+					margin: 0; 
+					display: table-caption;">+
+					let's festival 등록</button>
+			</div>
+		</div>	
+		</div>
+</div>
 
 		<div class="container-xl">
       <div class="row">
