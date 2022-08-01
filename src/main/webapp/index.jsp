@@ -977,7 +977,7 @@
 									</footer>
 
 
-										<script src="resources/js/bootstrap.bundle.min.js"></script>
+									<script src="resources/js/bootstrap.bundle.min.js"></script>
 									<script src="resources/js/tiny-slider.js"></script>
 									<script src="resources/js/glightbox.min.js"></script>
 									<script src="resources/js/rellax.min.js"></script>
