@@ -98,7 +98,7 @@ style="margin-top: -7%;">
 <div class="row">
 <div class="row mt-5">
 			<div class="block-27" style="margin-bottom: 1%;">
-				<button id="minsuk_btn" onclick='location.href="example";'
+				<button id="minsuk_btn" onclick='location.href="yb-letfe-reg1";'
 					style="color: white !important; 
 					padding: -6px 12px; 
 					background: red !important;

@@ -21,37 +21,35 @@
   <link rel="stylesheet" href="resources/css/style.css">
 <!--blog.jsp  -->
 
- <!--nice css. 민석end -->   
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--nicepage  -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <meta name="keywords" content="$10 Off withEmail Signup, $10 Off withEmail Signup">
     <meta name="description" content="">
-    <title>2 축제상세입력</title>
+    <title>3 축제 상세입력</title>
     <link rel="stylesheet" href="resources/css/ms-nicepage.css" media="screen">
-<link rel="stylesheet" href="resources/css/ms-2-축제상세입력.css" media="screen">
+<link rel="stylesheet" href="resources/css/ms-3-축제-상세입력.css" media="screen">
     <script class="u-script" type="text/javascript" src="resources/js/ms-jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="resources/js/ms-nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 4.14.1, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
- <!--nice css. 민석end -->   
-    
-    
-    
-    <script type="application/ld+json">{
+  <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
 		"name": ""
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="2 축제상세입력">
+    <meta property="og:title" content="3 축제 상세입력">
     <meta property="og:type" content="website">
+<!--nicepage  -->
+
+
+<meta charset="UTF-8">
+<title>Insert title here</title>
 </head>
- <body class="u-body u-xl-mode" data-lang="en">
- 
- 
- 
- <!--blog.jsp  -->
+<body class="u-body u-xl-mode" >
+<!--blog.jsp  -->
    <div class="py-1 top-wrap">
     <div class="container-xl">
       <div class="row justify-content-between">
@@ -104,71 +102,52 @@
   </section>
  <!--blog.jsp  -->
  
- 
- 
-
-    <section class="u-clearfix u-image u-section-1" id="carousel_aecd" data-image-width="2736" data-image-height="1824" >
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+ <section class="u-clearfix u-image u-section-1" id="sec-060d" data-image-width="2736" data-image-height="1824">
+      <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-container-style u-group u-white u-group-1">
           <div class="u-container-layout u-container-layout-1">
-            <h4 class="u-custom-font u-font-montserrat u-text u-text-1"><span class="u-file-icon u-icon u-icon-1"><img src="resources/images/179350.png" alt=""></span> &nbsp;축제 상세 입력
+            <h4 class="u-custom-font u-font-montserrat u-text u-text-1"><span class="u-file-icon u-icon u-icon-1"><img src="resources/images/179351.png" alt=""></span> &nbsp;축제 상세 입력
             </h4>
             <div class="u-expanded-width u-form u-form-1">
               <form action="#" method="POST" class="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form" source="email" name="form" style="padding: 0px;">
                 <div class="u-form-group u-form-name">
-                  <label for="name-4c18" class="u-label u-label-1">축제명</label>
+                  <label for="name-4c18" class="u-label u-label-1">대표이미지</label>
                   <input type="text" id="name-4c18" name="name" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10" required="">
                 </div>
-                <div class="u-form-group u-form-partition-factor-2 u-form-select u-form-group-2">
-                  <label for="select-8ac2" class="u-label u-label-2">대분류</label>
-                  <div class="u-form-select-wrapper">
-                    <select id="select-8ac2" name="select" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10" size="5">
-                      <option value="음식">음식</option>
-                      <option value="지역">지역</option>
-                      <option value="음악">음악</option>
-                      <option value="계절">계절</option>
-                      <option value="기타">기타</option>
-                    </select>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret"><path fill="currentColor" d="M4 8L0 4h8z"></path></svg>
-                  </div>
+                <div class="u-form-group u-form-group-2">
+                  <label for="text-d1cb" class="u-label u-label-2">이미지</label>
+                  <input type="text" placeholder="" id="text-d1cb" name="text" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10">
                 </div>
-                <div class="u-form-group u-form-partition-factor-2 u-form-select u-form-group-3">
-                  <label for="select-6dfa" class="u-label u-label-3">소분류</label>
-                  <div class="u-form-select-wrapper">
-                    <select id="select-6dfa" name="select-1" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10" size="5">
-                      <option value="Item 1">Item 1</option>
-                      <option value="Item 2">Item 2</option>
-                      <option value="Item 3">Item 3</option>
-                    </select>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret"><path fill="currentColor" d="M4 8L0 4h8z"></path></svg>
-                  </div>
+                <div class="u-form-address u-form-group u-form-group-3">
+                  <label for="address-dfdc" class="u-label u-label-3">주소</label>
+                  <input type="text" id="address-dfdc" name="address" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10" required="">
                 </div>
-                <div class="u-form-date u-form-group u-form-group-4">
-                  <label for="date-0642" class="u-label u-label-4">시작일</label>
-                  <input type="date" placeholder="MM/DD/YYYY" id="date-0642" name="date" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10" required="">
+                <div class="u-form-group u-form-group-4">
+                  <label for="text-f524" class="u-label u-label-4">축제 한 줄 소개</label>
+                  <input type="text" placeholder="" id="text-f524" name="text-1" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10">
                 </div>
-                <div class="u-form-date u-form-group u-form-group-5">
-                  <label for="date-7a5a" class="u-label u-label-5">마감일</label>
-                  <input type="date" placeholder="MM/DD/YYYY" id="date-7a5a" name="date-1" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10" required="">
+                <div class="u-form-group u-form-textarea u-form-group-5">
+                  <label for="textarea-b765" class="u-label u-label-5">축제 소개</label>
+                  <textarea rows="4" cols="50" id="textarea-b765" name="textarea" class="u-border-2 u-border-grey-5 u-grey-5 u-input u-input-rectangle u-radius-10" required=""></textarea>
                 </div>
-  <div class="u-align-center u-form-group u-form-submit">
-                  <a href="lefe-reigst-third" data-page-id="470906911" class="u-border-none u-btn u-btn-submit u-button-style u-hover-white u-text-body-alt-color u-blue u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="m19.98,200.65909l180.67121,0l55.82879,-171.63684l55.82883,171.63684l180.67118,0l-146.16581,106.07619l55.83168,171.63684l-146.16587,-106.07908l-146.16584,106.07908l55.8317,-171.63684l-146.16586,-106.07619z"></path></svg><img></span>&nbsp;다음
+                <div class="u-align-right u-form-group u-form-submit">
+                  <a href="3-축제-상세입력.html" data-page-id="470906911" class="u-active-palette-1-base u-border-active-palette-4-light-1 u-border-hover-palette-4-light-1 u-border-none u-btn u-btn-round u-btn-submit u-button-style u-custom-color-3 u-hover-palette-1-base u-radius-10 u-btn-1">등록 완료<br>
                   </a>
                   <input type="submit" value="submit" class="u-form-control-hidden">
                 </div>
                 <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
                 <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
                 <input type="hidden" value="" name="recaptchaResponse">
-                
-            
               </form>
             </div>
-            <a href="https://nicepage.online" class="u-border-none u-btn u-btn-round u-button-style u-hover-palette-1-light-2 u-palette-2-base u-radius-14 u-btn-2"><span class="u-file-icon u-icon"><img src="resources/images/889590.png" alt=""></span>이전 
+            <a href="2-축제상세입력.html" data-page-id="3072114104" class="u-border-none u-btn u-btn-round u-button-style u-hover-palette-1-light-2 u-palette-2-base u-radius-14 u-btn-2"><span class="u-file-icon u-icon"><img src="resources/images/889590.png" alt=""></span>이전 
             </a>
-              <a href="lefe-reigst-third" data-page-id="470906911" class="u-border-none u-btn u-btn-round u-button-style u-hover-palette-1-light-2 u-palette-2-base u-radius-14 u-btn-3">다음 </a>
           </div>
         </div>
       </div>
+    </section>
+    <section class="u-clearfix u-section-2" id="sec-4574">
+      <div class="u-clearfix u-sheet u-sheet-1"></div>
     </section>
     
     
@@ -176,17 +155,15 @@
     
     
     <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Web Templates</span>
+      <a class="u-link" href="https://nicepage.com/templates" target="_blank">
+        <span>Template</span>
       </a>
       <p class="u-text">
         <span>created with</span>
       </p>
-      <a class="u-link" href="https://nicepage.com/website-builder" target="_blank">
-        <span>Best Website Builder</span>
+      <a class="u-link" href="" target="_blank">
+        <span>Offline Website Builder</span>
       </a>. 
     </section>
   
-
-</body>
-</html>
+</body></html>
