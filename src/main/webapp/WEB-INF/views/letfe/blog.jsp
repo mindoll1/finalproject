@@ -10,15 +10,15 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/resources/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/resources/css/ionicons.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
 
-  <link rel="stylesheet" href="resources/letsfestival/css/animate.css">
-  <link rel="stylesheet" href="resources/letsfestival/css/flaticon.css">
-  <link rel="stylesheet" href="resources/letsfestival/css/tiny-slider.css">
-  <link rel="stylesheet" href="resources/letsfestival/css/glightbox.min.css">
-  <link rel="stylesheet" href="resources/letsfestival/css/aos.css">
-  <link rel="stylesheet" href="resources/letsfestival/css/style.css">
+  <link rel="stylesheet" href="resources/css/animate.css">
+  <link rel="stylesheet" href="resources/css/flaticon.css">
+  <link rel="stylesheet" href="resources/css/tiny-slider.css">
+  <link rel="stylesheet" href="resources/css/glightbox.min.css">
+  <link rel="stylesheet" href="resources/css/aos.css">
+  <link rel="stylesheet" href="resources/css/style.css">
 </head>
 <body>
 
@@ -61,20 +61,65 @@
     </div>
   </nav>
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('resources/images/bg_3.jpg');">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('resources/images/letsfestival2.png');">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-center">
         <div class="col-md-9 pt-5 text-center">
-          <p class="breadcrumbs"><span class="mr-2"><a href="index">Home <i class="fa fa-chevron-right"></i></a></span> <span>Blog <i class="fa fa-chevron-right"></i></span></p>
-          <h1 class="mb-0 bread">Our Blog</h1>
+          <p class="breadcrumbs"><span class="mr-2"><a href="index">Home <i class="fa fa-chevron-right"></i></a></span> <span>렛페 <i class="fa fa-chevron-right"></i></span></p>
+          <h1 class="mb-0 bread">테스트용 렛페</h1>
         </div>
       </div>
     </div>
   </section>
 
+			
   <section class="ftco-section bg-light">
-    <div class="container-xl">
+
+<!--자꾸 창 사이즈를 줄이면 튕겨져서 나가서 이것은 못씀  -->
+<!-- 	<button id="minsuk_btn" onclick='location.href="example";'
+	style="	color: white !important;
+			padding: -6px 12px;#3D;
+			left: 1450px;background:red !important;
+			cursor: pointer;
+			top: 49px;
+			left: 1398px;
+			padding: 10px 29px;
+			letter-spacing:1px;
+			border-radius: 5.25rem !important;
+			">+ let's festival 등록</button> -->
+			
+<!-- 안 튕겨나갈려면 적절히 div 태그를 섞어서 써야된다. 
+div 태그도 얘네가 어디 부트스트랩꺼를 써서 지금 만든 건지는 모르겠지만 
+거기에 해당하는 거 적절하 class 이름 찾아서 섞어 써야됨-->
+
+<div class="col text-center" 
+style="margin-top: -7%;">
+<div class="row">
+<div class="row mt-5">
+			<div class="block-27" style="margin-bottom: 1%;">
+
+				<button id="minsuk_btn" onclick='location.href="yb-letfe-reg1";'
+
+					style="color: white !important; 
+					padding: -6px 12px; 
+					background: red !important;
+					cursor: pointer; 
+					letter-spacing: 1px;
+					border-radius: 5.25rem !important; 
+					width: 24%;height: -11%; 
+					position: absolute; 
+					padding: 0;
+					position:inherit; 
+					margin: 0; 
+					display: table-caption;">+
+					let's festival 등록</button>
+			</div>
+		</div>	
+		</div>
+</div>
+
+		<div class="container-xl">
       <div class="row">
         <div class="col-md-3 d-flex">
           <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -258,6 +303,7 @@
 
           <footer class="ftco-footer">
             <div class="container-xl">
+      
               <div class="row mb-5 pb-5 justify-content-between">
                 <div class="col-md-6 col-lg">
                   <div class="ftco-footer-widget mb-4">

@@ -1,5 +1,9 @@
 package com.festi.service;
 
-public class LetfeService {
+import com.festi.letfeVO.LetfeVO;
+
+public interface LetfeService {
+	
+	public int letfeInsert(LetfeVO vo);
 
 }

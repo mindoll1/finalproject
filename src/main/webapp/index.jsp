@@ -61,7 +61,7 @@
 					<li class="nav-item"><a class="nav-link active" href="index">Home</a></li>
 					<li class="nav-item"><a class="nav-link" href="about">About</a></li>
 					<li class="nav-item"><a class="nav-link" href="listing">Listing</a></li>
-					<li class="nav-item"><a class="nav-link" href="blog">Blog</a></li>
+					<li class="nav-item"><a class="nav-link" href="letfe/blog">Blog</a></li>
 					<li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
 				</ul>
 				<p class="mb-0"><a href="#" class="btn btn-primary rounded"><span class="ion-ios-add"></span> Add Listing</a></p>
